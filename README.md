@@ -12,18 +12,33 @@ i ha de ser capaç d’executar tots els scripts, els quals a la vegada han de s
 de realitzar les següents apartats: (5 punts)
 
 a. Creació d’un usuari de Samba. Has de demanar: (1 punt)
+
 i. nom d’usuari.
+
 ii. cognom usuari.
+
 iii. grup primari.
+
 iv. home directory.
+
 v. password.
+
 vi. algun apartat més a escollir i determinar
+
 b. Creació d’un grup de Samba. Has de demanar: (1,25 punt)
+
 i. has de demanar nom de grup
+
 c. Eliminació d’un usuari de Samba. Has de demanar: (1 punt)
+
 i. has de demanar/seleccionar nom d’usuari
+
 d. Eliminació d’un grup de Samba. Has de demanar: (1,25 punt)
+
 i. has de demanar/seleccionar nom de grup
+
 e. Creació d’usuaris de Samba a partir d’un fitxer. (0,25 punt)
+
 f. Llistar usuaris d’un grup de Samba. Has de seleccionar el grup d’usuaris:
+
 (0,25 punts)
